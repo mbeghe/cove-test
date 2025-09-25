@@ -141,6 +141,7 @@ Mobile:
 - Integrated Heroicons for consistent, professional iconography
 - Built loading states, error handling, and empty state messaging
 - Added image display for room thumbnails with fallback handling
+- Added click-to-expand modal for room images to improve space utilization and provide better visual detail when needed
 
 **Responsive Design:**
 - Mobile-first approach with progressive enhancement
