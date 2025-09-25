@@ -1,0 +1,13 @@
+.theme {
+  --bg: #0b1220;
+  --surface: #111a2e;
+  --surface-2: #192544;
+  --muted: #aeb9d4;
+  --text: #FFFFFF;
+  --title: #ffe6a7;
+  --brand: #4ea1ff;
+  --accent: #15d1c2;
+  --list-bg: #0f162a;
+  --chip: #274f8a;
+  --ring: rgba(255, 255, 255, 0.08);
+}
